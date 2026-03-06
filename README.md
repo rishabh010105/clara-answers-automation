@@ -2,6 +2,17 @@
 
 Welcome to the Clara Answers zero-cost automation pipeline repository. This pipeline simulates the real-world operational challenge of taking messy conversational data (from Sales/Demo calls and Support/Onboarding calls) and reliably transforming it into production-ready configuration artifacts for the Retell AI Voice Agent.
 
+## Loom Demo Video (3–5 Minutes)
+
+This short demo video shows:
+
+- Running the automation workflow on a demo + onboarding pair
+- Generated outputs (Account Memo JSON and Retell Agent Spec)
+- Version upgrade from Agent v1 → Agent v2
+- The orchestrator workflow that runs the pipeline
+
+Video link - https://drive.google.com/file/d/1vv1Lzpkanqv86wOtd3SDbbjOYUpeZue1/view?usp=drive_link
+
 ## Overview and Data Flow
 
 This repository contains:
@@ -88,3 +99,4 @@ Once pipeline execution generates the `agent_spec.json`:
 
 -   **Integrations**: Implement standard Webhook nodes to push `memo.json` directly into standard CRMs like ServiceTrade or Salesforce, preventing duplicate data entry.
 -   **Audio Ingestion**: Run a local Whisper model to transcribe raw `.wav` or `.mp3` call recordings on the fly inside `pipeline.py`.
+
