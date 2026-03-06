@@ -1,0 +1,7 @@
+[SUPPORT]: Hey Tom. Setting up your agent. Business hours first?
+[CLIENT]: 8 to 5 on weekdays. Eastern time.
+[SUPPORT]: How are we handling those burst pipes you mentioned? 
+[CLIENT]: Our dispatch line is actually 555-8888. Emergency only. Transfer it. If that transfer fails, text our on-call person. DO NOT just say someone will call back later, that's not good enough for emergencies.
+[SUPPORT]: Understood. Dispatch line 555-8888. If transfer fails, explicitly note that dispatch has been notified.
+[CLIENT]: And for non-emergencies, regular plumbing stuff, Clara needs to make sure they know they won't get a call back until the next business day. 
+[SUPPORT]: Got it. Will be crystal clear on next business day follow-up for non-emergencies.

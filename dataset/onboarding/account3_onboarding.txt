@@ -1,0 +1,11 @@
+[SUPPORT]: Hi Mike, ready to do onboarding for Rapid Electrical?
+[CLIENT]: Sure am. Let's do this quickly.
+[SUPPORT]: Your business hours?
+[CLIENT]: 7 to 4, Mon-Fri. Pacific Time.
+[SUPPORT]: You had mentioned power outages and sparking panels. Emergency rules?
+[CLIENT]: Yeah, call my cell directly at 555-9000. Wait, actually, let's call my dispatcher, 555-9001 instead. The cell might be off.
+[SUPPORT]: 555-9001 for emergencies. Timeout?
+[CLIENT]: If they don't answer in 30 seconds, apologize and let them know we have their info and are paging the on-call team.
+[SUPPORT]: Understood. And non-emergencies? 
+[CLIENT]: Just take a message and we'll handle it during regular hours. Oh, and no service calls to areas outside the 90210 zip code. Period. Just tell them we don't serve their area.
+[SUPPORT]: Okay, we will add that constraint right away. No service outside 90210.

@@ -1,0 +1,20 @@
+{
+  "account_id": "account4",
+  "company_name": "Peak Facilities",
+  "business_hours": "",
+  "office_address": "",
+  "services_supported": [],
+  "emergency_definition": [
+    "Burst pipes"
+  ],
+  "emergency_routing_rules": "Pass directly to dispatch line.",
+  "non_emergency_routing_rules": "Take a message.",
+  "call_transfer_rules": "",
+  "integration_constraints": "",
+  "after_hours_flow_summary": "Greet -> Purpose -> Emergency Check -> Route (Transfer/Message) -> Close.",
+  "office_hours_flow_summary": "Greet -> Purpose -> Collect Info -> Transfer to office.",
+  "questions_or_unknowns": [
+    "Business hours not explicitly defined."
+  ],
+  "notes": "Generated automatically via extractor pipeline."
+}

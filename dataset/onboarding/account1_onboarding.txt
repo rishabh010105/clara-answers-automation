@@ -1,0 +1,9 @@
+[SUPPORT]: Hey Mark, it's Clara Onboarding Team. Thanks for joining to configure your Fire & Safety Pros agent.
+[CLIENT]: Hi! Yeah, so after the demo, we decided we definitely need this. 
+[SUPPORT]: Perfect. Let's get ironed out first: what are your business hours and timezone?
+[CLIENT]: We operate Monday to Friday, 8:00 AM to 5:00 PM Eastern Standard Time. 
+[SUPPORT]: Great. Now, for the emergency routing. You mentioned sprinkler leaks and active fire alarms. How should we route these after hours?
+[CLIENT]: Emergency sprinkler calls must go directly to the phone tree. For alarms, call 555-0199 first, and if that transfer fails after 60 seconds, dispatch must be notified via SMS. 
+[SUPPORT]: Got it. Phone tree for sprinklers, and 555-0199 for alarms with a 60-second transfer timeout. And for non-emergencies?
+[CLIENT]: Non-emergency extinguisher calls can be collected after hours and someone will call them back next business day. 
+[SUPPORT]: Sounds simple enough. We will update the agent prompt with these exact rules. Frankie is your Clara agent, we'll turn him on tomorrow.

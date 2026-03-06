@@ -1,0 +1,7 @@
+[SALES]: Hello, this is Clara demos. How can we assist Peak Facilities today?
+[CLIENT]: Hi. My name's Tom. We do general facility maintenance. We get all sorts of service requests, plumbing, electrical, you name it.
+[SALES]: Awesome. Clara can pre-qualify all these inbound service requests.
+[CLIENT]: Great. A lot of people call in about minor plumbing issues that aren't critical.
+[SALES]: Clara can politely let them know someone will call back later, and simply collect their information. What about real emergencies, like a burst pipe?
+[CLIENT]: For real emergencies, we want Clara to try passing them directly to our main dispatch line.
+[SALES]: Sounds good. Clara will do just that and try to connect them immediately. If anything goes wrong, she can take a message and say follow-up will happen soon.

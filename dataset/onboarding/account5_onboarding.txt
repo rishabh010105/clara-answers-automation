@@ -1,0 +1,13 @@
+[SUPPORT]: Elite Alarms? Let's get your hours set.
+[CLIENT]: 9 to 6 EST. 
+[SUPPORT]: You had mentioned sirens vs low battery. Let's do numbers.
+[CLIENT]: Yeah, so try the primary tech at 555-5000. Give it 20 seconds. If no answer, try the backup tech at 555-5001 for another 20 seconds.
+[SUPPORT]: Primary 555-5000, Backup 555-5001. And if both fail?
+[CLIENT]: Apologize and say the on-call team will respond within 15 minutes. 
+[SUPPORT]: Wait, but they just didn't answer?
+[CLIENT]: Oh, right. Say we have their information and are paging the team urgently. 
+[SUPPORT]: And "low battery" callers? 
+[CLIENT]: No follow-up on weekends. If they call about a low battery on Saturday, just tell them to call us back on Monday.
+[SUPPORT]: No weekend follow-up for low battery. Got it. Do you use any specific CRM?
+[CLIENT]: We use ServiceTitan but we don't want Clara touching it at all. 
+[SUPPORT]: Okay, strict rule: Do not use or reference ServiceTitan.

@@ -1,0 +1,11 @@
+[SUPPORT]: Hi Jessica! I'm here to help configure your Clara agent for Aqua HVAC.
+[CLIENT]: Hey, nice to talk to you. Let's get this set up.
+[SUPPORT]: First, your office hours?
+[CLIENT]: We are open 7 AM to 6 PM, Central Time. Monday through Saturday.
+[SUPPORT]: Awesome. Now, during the demo, you mentioned broken heaters are emergencies. How do we route them?
+[CLIENT]: Call the on-call tech at 555-0200. If that fails after 45 seconds, just apologize and assure follow-up. 
+[SUPPORT]: And regarding ServiceTrade? You mentioned scheduling regular service calls.
+[CLIENT]: Oh, yes. Very important. Never create jobs in ServiceTrade for AC after hours. Just collect the details and say we'll follow up during business hours. 
+[SUPPORT]: Okay, never create AC jobs in ServiceTrade after hours. What about heating emergencies?
+[CLIENT]: Heating emergencies can be created in ServiceTrade, but just definitely not AC. 
+[SUPPORT]: Fantastic. We'll update the agent instructions to reflect this.

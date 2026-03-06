@@ -1,0 +1,20 @@
+{
+  "account_id": "account5",
+  "company_name": "Elite Alarms",
+  "business_hours": "",
+  "office_address": "",
+  "services_supported": [],
+  "emergency_definition": [
+    "Active siren going off"
+  ],
+  "emergency_routing_rules": "Connect to on-call tech right away.",
+  "non_emergency_routing_rules": "Take a message.",
+  "call_transfer_rules": "",
+  "integration_constraints": "",
+  "after_hours_flow_summary": "Greet -> Purpose -> Emergency Check -> Route (Transfer/Message) -> Close.",
+  "office_hours_flow_summary": "Greet -> Purpose -> Collect Info -> Transfer to office.",
+  "questions_or_unknowns": [
+    "Business hours not explicitly defined."
+  ],
+  "notes": "Generated automatically via extractor pipeline."
+}

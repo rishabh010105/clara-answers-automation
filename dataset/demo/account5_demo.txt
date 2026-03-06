@@ -1,0 +1,7 @@
+[SALES]: Hey, Welcome to Retell. What can Clara Answers do for Elite Alarms?
+[CLIENT]: Hi. Yes, Elite Alarms here. We need Clara to handle overflow calls because our dispatch gets overwhelmed during bad weather when everyone's systems start beeping or showing errors.
+[SALES]: Got it. What's considered an emergency in your world?
+[CLIENT]: An active siren going off is an emergency. A "low battery" beep is definitely not. If it's just beeping, they can wait until normal hours. 
+[SALES]: Understood. For emergencies, Clara will connect them to the on-call tech right away.
+[CLIENT]: Yep. Try connecting them. If it doesn't work, Clara can take a message, but we should probably try two different numbers first. 
+[SALES]: Sounds like a plan. For "low battery", Clara will just let them know someone will call back. We'll finalize the numbers during onboarding.

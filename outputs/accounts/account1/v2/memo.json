@@ -1,0 +1,19 @@
+{
+  "account_id": "account1",
+  "company_name": "Fire & Safety Pros",
+  "business_hours": "Mon-Fri, 8:00 AM - 5:00 PM EST",
+  "office_address": "",
+  "services_supported": [],
+  "emergency_definition": [
+    "Sprinkler leaks",
+    "Active fire alarms"
+  ],
+  "emergency_routing_rules": "Sprinkler -> phone tree. Alarms -> 555-0199.",
+  "non_emergency_routing_rules": "Collect details. Mention next business day follow-up.",
+  "call_transfer_rules": "60-second timeout. If fails, notify dispatch via SMS.",
+  "integration_constraints": "",
+  "after_hours_flow_summary": "Greet -> Purpose -> Emergency Check -> Route (Transfer/Message) -> Close.",
+  "office_hours_flow_summary": "Greet -> Purpose -> Collect Info -> Transfer to office.",
+  "questions_or_unknowns": [],
+  "notes": "Updated via onboarding pipeline (v2)."
+}

@@ -1,0 +1,21 @@
+{
+  "account_id": "account1",
+  "company_name": "Fire & Safety Pros",
+  "business_hours": "",
+  "office_address": "",
+  "services_supported": [],
+  "emergency_definition": [
+    "Sprinkler leaks",
+    "Active fire alarms"
+  ],
+  "emergency_routing_rules": "Route to on-call technician.",
+  "non_emergency_routing_rules": "Take a message.",
+  "call_transfer_rules": "",
+  "integration_constraints": "",
+  "after_hours_flow_summary": "Greet -> Purpose -> Emergency Check -> Route (Transfer/Message) -> Close.",
+  "office_hours_flow_summary": "Greet -> Purpose -> Collect Info -> Transfer to office.",
+  "questions_or_unknowns": [
+    "Business hours not explicitly defined."
+  ],
+  "notes": "Generated automatically via extractor pipeline."
+}

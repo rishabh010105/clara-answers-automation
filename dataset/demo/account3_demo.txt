@@ -1,0 +1,7 @@
+[SALES]: Hey Sarah here from Retell to talk about Clara.
+[CLIENT]: Hi, I'm Mike from Rapid Electrical. We're looking at your AI for after hours. Sometimes we get emergency calls like power outages or sparking panels. 
+[SALES]: Great. What do you want Clara to do for those?
+[CLIENT]: Try routing to my cell phone. If I don't pick up, just let them know I'll call back ASAP. 
+[SALES]: Got it. And for non-emergencies like adding a new outlet or something?
+[CLIENT]: Just take a message. 
+[SALES]: Awesome. Clara's got it covered.

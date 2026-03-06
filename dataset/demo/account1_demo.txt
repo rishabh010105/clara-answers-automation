@@ -1,0 +1,9 @@
+[SALES]: Hi! This is Sarah from Retell. Thanks for hopping on the demo call for Clara Answers. How can we help Fire & Safety Pros today?
+[CLIENT]: Hi Sarah. I'm Mark. We handle fire protection, sprinkler systems, and fire alarms. The problem is we miss a lot of phone calls when all our dispatchers are busy, or after hours. We get emergency calls like sprinkler leaks or fire alarms going off, and those need immediate attention. 
+[SALES]: I understand. Clara can definitely help handle those overflow and after-hours calls. What would you like Clara to do when it detects an emergency like a sprinkler leak?
+[CLIENT]: It should probably just get their information and route the call to our on-call technician. If it's not an emergency, like just scheduling an annual inspection or a non-emergency extinguisher refill, Clara can just take a message. 
+[SALES]: That sounds very doable. Clara will collect the caller's name, number, and the reason for the call, and then either transfer it or politely let them know someone will call back during business hours.
+[CLIENT]: That sounds great. So Clara can distinguish between emergencies and non-emergencies? 
+[SALES]: Yes! We just need to define what an emergency is, and Clara will follow the rules. It sounds like sprinkler leaks and active fire alarms are emergencies.
+[CLIENT]: Exactly. 
+[SALES]: Awesome. Let's get you set up with a trial to see how it works!

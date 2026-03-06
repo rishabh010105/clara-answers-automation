@@ -1,0 +1,21 @@
+{
+  "account_id": "account3",
+  "company_name": "Rapid Electrical",
+  "business_hours": "",
+  "office_address": "",
+  "services_supported": [],
+  "emergency_definition": [
+    "Power outages",
+    "Sparking panels"
+  ],
+  "emergency_routing_rules": "Try routing to cell phone.",
+  "non_emergency_routing_rules": "Take a message.",
+  "call_transfer_rules": "",
+  "integration_constraints": "",
+  "after_hours_flow_summary": "Greet -> Purpose -> Emergency Check -> Route (Transfer/Message) -> Close.",
+  "office_hours_flow_summary": "Greet -> Purpose -> Collect Info -> Transfer to office.",
+  "questions_or_unknowns": [
+    "Business hours not explicitly defined."
+  ],
+  "notes": "Generated automatically via extractor pipeline."
+}

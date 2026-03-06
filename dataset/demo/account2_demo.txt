@@ -1,0 +1,7 @@
+[SALES]: Welcome to Retell. I'm Alex. How can Clara Answers help Aqua HVAC today?
+[CLIENT]: Hi Alex, I'm Jessica. We're an HVAC company. We get a ton of calls when people's ACs break in the summer or heaters in the winter. We want Clara to handle the overflow. 
+[SALES]: Awesome. Clara can pre-screen whether it's an emergency or not. What's an emergency for you?
+[CLIENT]: No heat in winter is an emergency. Broken AC is usually an emergency in a heatwave, but sometimes it's just a regular service call. 
+[SALES]: Okay. So for emergencies, Clara will collect their info and try to connect them to a technician?
+[CLIENT]: Exactly. For regular stuff, just take a message and we'll schedule them in ServiceTrade later. 
+[SALES]: Perfect. Clara is great at doing that. I'll pass your notes to the onboarding team.
